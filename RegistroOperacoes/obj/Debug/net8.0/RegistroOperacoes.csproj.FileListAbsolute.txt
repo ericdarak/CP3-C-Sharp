@@ -1,0 +1,28 @@
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/bin/Debug/net8.0/RegistroOperacoes
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/bin/Debug/net8.0/RegistroOperacoes.deps.json
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/bin/Debug/net8.0/RegistroOperacoes.runtimeconfig.json
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/bin/Debug/net8.0/RegistroOperacoes.dll
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/bin/Debug/net8.0/RegistroOperacoes.pdb
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/obj/Debug/net8.0/RegistroOperacoes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/obj/Debug/net8.0/RegistroOperacoes.AssemblyInfoInputs.cache
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/obj/Debug/net8.0/RegistroOperacoes.AssemblyInfo.cs
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/obj/Debug/net8.0/RegistroOperacoes.csproj.CoreCompileInputs.cache
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/obj/Debug/net8.0/RegistroOperacoes.dll
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/obj/Debug/net8.0/refint/RegistroOperacoes.dll
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/obj/Debug/net8.0/RegistroOperacoes.pdb
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/obj/Debug/net8.0/RegistroOperacoes.genruntimeconfig.cache
+/Users/lucianoheriquemeriatojunior/Desktop/cp2 c#/RegistroOperacoes/obj/Debug/net8.0/ref/RegistroOperacoes.dll
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\bin\Debug\net8.0\RegistroOperacoes.exe
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\bin\Debug\net8.0\RegistroOperacoes.deps.json
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\bin\Debug\net8.0\RegistroOperacoes.runtimeconfig.json
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\bin\Debug\net8.0\RegistroOperacoes.dll
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\bin\Debug\net8.0\RegistroOperacoes.pdb
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\obj\Debug\net8.0\RegistroOperacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\obj\Debug\net8.0\RegistroOperacoes.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\obj\Debug\net8.0\RegistroOperacoes.AssemblyInfo.cs
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\obj\Debug\net8.0\RegistroOperacoes.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\obj\Debug\net8.0\RegistroOperacoes.dll
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\obj\Debug\net8.0\refint\RegistroOperacoes.dll
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\obj\Debug\net8.0\RegistroOperacoes.pdb
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\obj\Debug\net8.0\RegistroOperacoes.genruntimeconfig.cache
+C:\Users\labsfiap\Downloads\cp2 c 1\cp2 c#\RegistroOperacoes\obj\Debug\net8.0\ref\RegistroOperacoes.dll
