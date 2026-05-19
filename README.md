@@ -6,6 +6,7 @@ Console Application em **C# / .NET 8.0** que simula o registro de operações de
 
 * Eric Darakjian - RM557082
 * Luciano Meriato - RM554546
+* Enzo Mikael - RM558887
 
 ## Evidencias de Teste
 
